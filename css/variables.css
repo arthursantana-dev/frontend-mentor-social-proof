@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap');
+
+:root{
+	--content-font: 'Spartan', sans-serif;
+
+	--w-text: 400;
+	--w-header: 500;
+	--w-title: 800;
+
+	--main-color: hsl(300, 43%, 22%);
+	--sec-color: hsl(333, 80%, 67%);
+
+	--dark-magenta: hsl(303, 10%, 53%);
+	--light-magenta: hsl(300, 24%, 96%);
+
+	--white: hsl(0, 0%, 100%);
+}
+
